@@ -4,5 +4,9 @@
             "type": "composer",
             "url": "https://github.com/ganeshsurya11/d8"
         }
-    ]
+    ],
+    "packages": {
+        "admin_toolbar": {
+            "dev-master": { @composer.json }
+        }
 }
