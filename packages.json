@@ -1,0 +1,8 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/ganeshsurya11/d8"
+        }
+    ]
+}
