@@ -3,7 +3,7 @@
   "description": "Provides a drop-down menu interface to the core Drupal Toolbar.",
   "type": "drupal-module",
   "keywords": ["Drupal", "Toolbar"],
-  "homepage": "http://drupal.org/project/admin_toolbar",
+  "homepage": "https://github.com/ganeshsurya11/d8/tree/master/admin_toolbar",
   "license": "GPL-2.0-or-later",
   "authors": [
     {
