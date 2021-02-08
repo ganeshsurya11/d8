@@ -6,8 +6,7 @@
         }
     ],
     "packages": {
-        "admin_toolbar": {
-            "dev-master"
-        }
+        "admin_toolbar",
+        "glue2"
     }
 }
