@@ -1,11 +1,4 @@
 {
-  "name" : "underscore",
-  "description" : "JavaScript's functional programming helper library.",
-  "homepage" : "http://documentcloud.github.com/underscore/",
-  "keywords" : ["util", "functional", "server", "client", "browser"],
-  "author" : "Jeremy Ashkenas <jeremy@documentcloud.org>",
-  "contributors" : [],
-  "dependencies" : [],
-  "repository" : {"type": "git", "url": "https://github.com/ganeshsurya11/d8.git"},
-  "main" : "underscore.js"
+  "name" : "glue12",
+  "version" : "0.0.0",
 }
