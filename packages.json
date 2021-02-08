@@ -6,6 +6,6 @@
         }
     ],
     "packages": {
-        "glue2"
+        "glue2": "1.2"
     }
 }
