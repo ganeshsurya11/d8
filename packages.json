@@ -6,7 +6,6 @@
         }
     ],
     "packages": {
-        "admin_toolbar",
         "glue2"
     }
 }
