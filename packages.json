@@ -7,7 +7,7 @@
     ],
     "packages": {
         "admin_toolbar": {
-            "dev-master": { @composer.json }
+            "dev-master"
         }
     }
 }
