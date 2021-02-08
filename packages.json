@@ -9,4 +9,5 @@
         "admin_toolbar": {
             "dev-master": { @composer.json }
         }
+    }
 }
