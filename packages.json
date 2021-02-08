@@ -1,11 +1,5 @@
 {
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://github.com/ganeshsurya11/d8"
-        }
-    ],
     "packages": {
-        "glue2": "1.2"
+        "glue2": : {"1.2"}
     }
 }
